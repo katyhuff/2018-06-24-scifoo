@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/MacPorts 2017_0)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: arfc-pres.aux
+A level-1 auxiliary file: options.aux
+A level-1 auxiliary file: storage.aux
+A level-1 auxiliary file: reprocessing.aux
+A level-1 auxiliary file: conceptual.aux
+A level-1 auxiliary file: concepts_components.aux
+A level-1 auxiliary file: concepts_layouts.aux
+A level-1 auxiliary file: concepts_geologies.aux
+The style file: plain.bst
+Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "iaea"
+Warning--I didn't find a database entry for "nrc_nuclear-fuel.jpg_????"
+Warning--I didn't find a database entry for "ewing_long-term_2016"
+Warning--I didn't find a database entry for "doe_spent_????"
+Warning--I didn't find a database entry for "doe_underground_????"
+Warning--empty journal in iaea_country_2015
+You've used 16 entries,
+            2118 wiz_defined-function locations,
+            590 strings with 6780 characters,
+and the built_in function-call counts, 4164 in all, are:
+= -- 384
+> -- 214
+< -- 3
++ -- 87
+- -- 70
+* -- 243
+:= -- 736
+add.period$ -- 44
+call.type$ -- 16
+change.case$ -- 82
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 151
+empty$ -- 329
+format.name$ -- 70
+if$ -- 848
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 9
+newline$ -- 79
+num.names$ -- 32
+pop$ -- 116
+preamble$ -- 1
+purify$ -- 67
+quote$ -- 0
+skip$ -- 120
+stack$ -- 0
+substring$ -- 130
+swap$ -- 21
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 1
+while$ -- 37
+width$ -- 18
+write$ -- 160
+(There were 6 warnings)

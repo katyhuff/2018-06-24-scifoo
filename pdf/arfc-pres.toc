@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Nuclear Nations}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Spent Fuel Inventory}{9}{0}{1}
+\beamer@sectionintoc {2}{Spent Fuel Options}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{Long-Term Storage}{16}{0}{2}
+\beamer@subsectionintoc {2}{2}{Reprocessing}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Deep Geologic Disposal}{22}{0}{2}
